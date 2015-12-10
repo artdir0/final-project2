@@ -1,0 +1,56 @@
+/* CURRENTLY IN: styles/main.css */
+
+html {
+	font-family: helvetica, sans-serif;
+	font-size: 14px;
+
+}
+
+
+.title {
+	width: 100%;
+	background-color: grey;
+}
+
+.title-text {
+	font-size: 3rem;
+	text-align: center;
+	padding: 2rem 0 2rem 0;
+
+}
+
+.concert__dates {
+	width: 100%;
+	background-color: red;
+	padding: 2rem 0 2rem 0;
+}
+
+
+.concert__dates-flex{
+	display: flex;
+	justify-content: center;
+} 
+
+.concert__dates-day--paddingRight {
+	padding-right: 2rem;
+}
+
+
+
+.artist__searchImput{
+	width: 100%;
+	height: 500px;
+	background-color: yellow;
+}
+
+.attribution {
+	width: 100%;
+	height: 100px;
+	background-color: blue;
+}
+
+
+.test {
+	display: inline;
+}
+
